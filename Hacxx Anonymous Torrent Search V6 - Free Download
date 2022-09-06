@@ -1,0 +1,24 @@
+PREVIEW:
+https://i.ibb.co/6rwh8dT/printscreen.jpg
+
+Download:
+https://oxy.st/d/pDMf
+---------------------------------------------------------------------
+Notes from the coder:
+- If you need to make a new search, just refresh the script.
+
+- While viewing the results, remember.
+Blue = Direct link to the torrent site
+Yellow = Indirect link using a Glype proxy
+
+If you have change your dns service to a public one that "Blue" links are fine.
+If you live in a country or place where the torrent site is blocked then use the "yellow" link.
+
+- Always download using the magnet: link.
+- Files ending in .torrent works aswell.
+
+- In case the user click in a magnet: link using the Glype (Yellow links), the user
+will have to remove the domain and server extension from the url.
+
+- Torrent downloads most of the time are monitored by multiple companies that can provide the file
+and collect data from you. Use a VPN service like PureVPN (Promo link in the script)
