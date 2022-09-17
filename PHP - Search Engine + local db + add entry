@@ -1,0 +1,14 @@
+A simple search engine + local db + add entry in php.
+
+File list
+add.php - Add links/text to db.txt
+db.txt - Where the links/text is stored
+index.html - The visual interface for the user
+search.php - The search mechanism. It searches in db.txt looking for the corresponding text.
+
+Download
+https://drop.download/n0rycqnwsvu5/PHP_-_Search_Engine_+_local_db_+_add_entry.rar
+https://nitroflare.com/view/27144F2ABBBEDA2/PHP_-_Search_Engine_%2B_local_db_%2B_add_entry.rar
+
+Virustotal
+https://www.virustotal.com/#/file/bb1710dac4394c632aaefef05b4e924d8461efc9d122ef7ef7e9bec3e814201a/detection
