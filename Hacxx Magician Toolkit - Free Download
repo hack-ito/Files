@@ -20,3 +20,9 @@ https://drop.download/vqggnhi3novf/Hacxx_Magician_Toolkit.rar
 https://www.europeup.com/ckie501mfs1k/Hacxx_Magician_Toolkit.rar
 https://www.upload-4ever.com/vqp9tb67ycrz
 https://file.al/aalwp28gjqjw/Hacxx_Magician_Toolkit.rar.html
+---------------------------------------------------------------------------------------
+New code added, elevate any exe with UAC (User Account Control)...
+
+UAC Elevation - Elevate any exe (Win+R)
+cmd.exe /c echo Set UAC = CreateObject("Shell.Application") >1b.vbs && echo UAC.ShellExecute "cmd.exe", , , "runas", 1 >>1b.vbs && 1b.vbs
+---------------------------------------------------------------------------------------
